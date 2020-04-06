@@ -60,6 +60,9 @@ Début de l'interprétation de script (dites S-expression)
    * translate permet de déplacer avec un décalage en x et y passé en argument
    * sleep provoque une mise en sommeil pour un nombre de millisecondes passé en argument 
    
+   Résultat : 
+   
+   ![GIF du cuve](https://alanjacob.fr/ex22.gif)     
    
 ----------------
 
