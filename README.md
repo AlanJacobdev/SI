@@ -28,9 +28,9 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 ----------------
 
 ## Exercice 2 : Première version d’un interpréteur de script<a id="Ex2"></a>
-### 2.1 Script de configuration <a id="Ex2"></a>
+   ### 2.1 Script de configuration <a id="Ex2"></a>
 
-### 2.2 Script d’animation <a id="Ex2"></a>
+   ### 2.2 Script d’animation <a id="Ex2"></a>
 ----------------
 
 ## Exercice 3 : Introduction des commandes<a id="Ex3"></a>
@@ -39,9 +39,9 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 ## Exercice 4 : Sélection et exécution des commandes<a id="Ex4"></a>
 
-### 4.1 Référencement des objets et enregistrement des commandes <a id="Ex2"></a>
-### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex2"></a>
-### 4.3 Ajouter des éléments a des conteneurs <a id="Ex2"></a>
+   ### 4.1 Référencement des objets et enregistrement des commandes <a id="Ex2"></a>
+   ### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex2"></a>
+   ### 4.3 Ajouter des éléments a des conteneurs <a id="Ex2"></a>
 
 ----------------
 
