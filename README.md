@@ -27,7 +27,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 **Aucuns problèmes rencontrés**
 
-Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant de couleur.
+Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant de couleur (*adaptation responsive*).
 
 ![GIF du cuve](https://alanjacob.fr/cube.gif)
 
