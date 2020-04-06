@@ -25,6 +25,11 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 ## Exercice 1 : Prise en main de la couche graphique<a id="Ex1"></a>
 
+**Aucuns problèmes rencontrés**
+Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant de couleur.
+
+![GIF du cuve](https://alanjacob.fr/cube.gif)
+
 ----------------
 
 ## Exercice 2 : Première version d’un interpréteur de script<a id="Ex2"></a>
