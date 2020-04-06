@@ -10,15 +10,15 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 *  [Exercice 2 : Première version d’un interpréteur de script](#Ex2)
 	* [2.1 Script de configuration](#Ex21)
-  * [2.2 Script d’animation](#Ex22)
+  	* [2.2 Script d’animation](#Ex22)
   
 * [Exercice 3 : Introduction des commandes](#Ex3)
 
 * [Exercice 4 : Sélection et exécution des commandes](#Ex4)
-  * [4.1 Référencement des objets et enregistrement des commandes](#Ex41)
-  * [4.2 Ajout et suppression dynamique d’éléments graphiques](#Ex42)
-  * [4.3 Ajouter des éléments a des conteneurs](#Ex43)
-  * [4.4 Création et exécution de scripts](#Ex44)
+  	* [4.1 Référencement des objets et enregistrement des commandes](#Ex41)
+  	* [4.2 Ajout et suppression dynamique d’éléments graphiques](#Ex42)
+  	* [4.3 Ajouter des éléments a des conteneurs](#Ex43)
+  	* [4.4 Création et exécution de scripts](#Ex44)
   
 
 ----------------
