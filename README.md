@@ -116,8 +116,10 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    **Problème de compréhension du NewImage et Add**
    
-   Ajout d'une méthode AddElement et d'une méthode DelElement
+   Ajout d'une méthode AddElement et d'une méthode DelElement.
+   
    Classes devenues universelles et gérées par les classes NewElement NewImage et NewString.
+   
    Test d'erreurs renforcés.
    
    
