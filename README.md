@@ -128,7 +128,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    
    
-   ### 4.3 Ajouter des éléments a des conteneurs <a id="Ex43"></a>
+   ### 4.3 Ajouter des éléments à des conteneurs <a id="Ex43"></a>
    
    
    
