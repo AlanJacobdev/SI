@@ -36,7 +36,14 @@ Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant
 ----------------
 
 ## Exercice 2 : Première version d’un interpréteur de script<a id="Ex2"></a>
+
+Début de l'interprétation de script (dites S-expression)
+
    ### 2.1 Script de configuration <a id="Ex2"></a>
+   
+   Ce script permet de modifier la couleur du conteneur principal nommé space et celle de robi.
+   
+     (script (space color black)(robi color yellow) )
 
    ### 2.2 Script d’animation <a id="Ex2"></a>
 ----------------
