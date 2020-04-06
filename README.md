@@ -74,7 +74,9 @@ Début de l'interprétation de script (dites S-expression)
 
 Mise en œuvre de l’interface Command ainsi que des classes correspondant aux commandes. utilisation de la méthode run de l'interface
 
-`abstract public void run();`
+```java
+abstract public void run();
+```
 
 Script suivant :
 
