@@ -39,7 +39,7 @@ Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant
 
 Début de l'interprétation de script (dites S-expression)
 
-   ### 2.1 Script de configuration <a id="Ex2"></a>
+   ### 2.1 Script de configuration <a id="Ex21"></a>
    
    **Aucuns problèmes rencontrés**
    
@@ -51,7 +51,7 @@ Début de l'interprétation de script (dites S-expression)
    
    ![IMG rendu fond noir | cube yellow](https://alanjacob.fr/ex2.png)     
 
-   ### 2.2 Script d’animation <a id="Ex2"></a>
+   ### 2.2 Script d’animation <a id="Ex22"></a>
    
    **Aucuns problèmes rencontrés**
     
@@ -89,9 +89,27 @@ Résultat :
 
 ## Exercice 4 : Sélection et exécution des commandes<a id="Ex4"></a>
 
-   ### 4.1 Référencement des objets et enregistrement des commandes <a id="Ex2"></a>
-   ### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex2"></a>
-   ### 4.3 Ajouter des éléments a des conteneurs <a id="Ex2"></a>
+Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur.
+
+   ### 4.1 Référencement des objets et enregistrement des commandes <a id="Ex41"></a>
+   
+   **Aucuns problèmes rencontrés**
+   
+   Ajout des classes Environment et Réference
+   
+   La commande run() de la classe Rférence gérant les commandes à effectuer.
+   
+   `public Expr run(ExprList expr) {
+       System.out.println(expr);
+       Command cmd = getCommandByName(expr.get(1).getValue());
+       cmd.run(receiver, expr);
+       return expr;
+		  }`
+   
+   
+   
+   ### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex42"></a>
+   ### 4.3 Ajouter des éléments a des conteneurs <a id="Ex43"></a>
 
 ----------------
 
