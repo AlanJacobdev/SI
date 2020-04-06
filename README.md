@@ -16,8 +16,8 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 * [Exercice 4 : Sélection et exécution des commandes](#Ex4)
   * [4.1 Référencement des objets et enregistrement des commandes](#Ex41)
-  * [4.2 Ajout et suppression dynamique d’éléments graphiques] (#Ex42)
-  * [4.3 Ajouter des éléments a des conteneurs] (#Ex43)
+  * [4.2 Ajout et suppression dynamique d’éléments graphiques](#Ex42)
+  * [4.3 Ajouter des éléments a des conteneurs](#Ex43)
   
 * [Exercice 5 :Eléments de base de notre langage à objet](#Ex5)
 
