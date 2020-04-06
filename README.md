@@ -30,7 +30,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant de couleur (*adaptation responsive*).
 
 
-![GIF du cuve](https://alanjacob.fr/cube.gif)
+![GIF du cube](https://alanjacob.fr/cube.gif)
 
 
 ----------------
@@ -49,10 +49,12 @@ Début de l'interprétation de script (dites S-expression)
      
    Donnant ce résultat.
    
-   ![GIF du cuve](https://alanjacob.fr/ex2.png)     
+   ![IMG rendu fond noir | cube yellow](https://alanjacob.fr/ex2.png)     
 
    ### 2.2 Script d’animation <a id="Ex2"></a>
    
+   **Aucuns problèmes rencontrés**
+    
    Compléter votre interpréteur pour permettre l’exécution du script suivant:
    
     (script (space color white)(robi color red) (robi translate 10 0)(space sleep 100)(robi translate 0 10)(space sleep 100)(robi translate -10 0)(space sleep 100)(robi translate 0 -10))
@@ -62,11 +64,26 @@ Début de l'interprétation de script (dites S-expression)
    
    Résultat : 
    
-   ![GIF du cuve](https://alanjacob.fr/ex22.gif)     
+   ![GIF du cube](https://alanjacob.fr/ex22.gif)     
    
 ----------------
 
 ## Exercice 3 : Introduction des commandes<a id="Ex3"></a>
+
+**Aucuns problèmes rencontrés**
+
+Mise en œuvre de l’interface Command ainsi que des classes correspondant aux commandes. utilisation de la méthode run de l'interface
+
+`abstract public void run();`
+
+Script suivant :
+
+    (script (space color cyan)(robi color blue)(space sleep 1000) (robi translate 10 0)(space sleep 100)(robi translate 0 10)(space sleep 100)(robi translate -10 0)(space sleep 100)(robi translate 0 -10) )
+
+Résultat : 
+
+
+
 
 ----------------
 
