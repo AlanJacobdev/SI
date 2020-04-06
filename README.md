@@ -25,7 +25,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 ## Exercice 1 : Prise en main de la couche graphique<a id="Ex1"></a>
 
-___**Aucuns problèmes rencontrés**___
+**Aucuns problèmes rencontrés**
 
 Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant de couleur (*adaptation responsive*).
 
@@ -107,11 +107,26 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
         return expr;
 	}
 ```
-   
-   
+   Les classes n'étant toujours pas universelles et fixées à un objet.
+      
    
    ### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex42"></a>
+   
+   **Problème de compréhension du NewImage et Add **
+   
+   Ajout d'une méthode AddElement et d'une méthode DelElement
+   Classes devenues universelles et gérées par les classes NewElement NewImage et NewString.
+   Test d'erreurs renforcés.
+   
+   
+   
+   
+   
    ### 4.3 Ajouter des éléments a des conteneurs <a id="Ex43"></a>
+   
+   
+   
+   
 
 ----------------
 
