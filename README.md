@@ -99,12 +99,13 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    La commande run() de la classe Rférence gérant les commandes à effectuer.
    
-   `public Expr run(ExprList expr) {
-       System.out.println(expr);
-       Command cmd = getCommandByName(expr.get(1).getValue());
-       cmd.run(receiver, expr);
-       return expr;
-		  }`
+   ```java
+   	public Expr run(ExprList expr) {
+        System.out.println(expr);
+        Command cmd = getCommandByName(expr.get(1).getValue());
+        cmd.run(receiver, expr);
+        return expr;
+	}```
    
    
    
