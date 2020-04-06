@@ -53,6 +53,12 @@ Début de l'interprétation de script (dites S-expression)
 
    ### 2.2 Script d’animation <a id="Ex2"></a>
    
+   Compléter votre interpréteur pour permettre l’exécution du script suivant:
+   
+    (script (space color white)(robi color red) (robi translate 10 0)(space sleep 100)(robi translate 0 10)(space sleep 100)(robi translate -10 0)(space sleep 100)(robi translate 0 -10))
+    
+   * translate permet de déplacer avec un décalage en x et y passé en argument
+   * sleep provoque une mise en sommeil pour un nombre de millisecondes passé en argument 
    
    
 ----------------
