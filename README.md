@@ -114,7 +114,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    ### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex42"></a>
    
-   **Problème de compréhension du NewImage et Add **
+   **Problème de compréhension du NewImage et Add**
    
    Ajout d'une méthode AddElement et d'une méthode DelElement
    Classes devenues universelles et gérées par les classes NewElement NewImage et NewString.
