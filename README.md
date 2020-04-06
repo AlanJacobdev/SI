@@ -29,8 +29,8 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 ## Exercice 2 : Première version d’un interpréteur de script<a id="Ex2"></a>
 
-    ### 2.1 Script de configuration <a id="Ex2"></a>
-    ### 2.2 Script d’animation <a id="Ex2"></a>
+###2.1 Script de configuration <a id="Ex2"></a>
+###2.2 Script d’animation <a id="Ex2"></a>
 ----------------
 
 ## Exercice 3 : Introduction des commandes<a id="Ex3"></a>
