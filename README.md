@@ -80,8 +80,8 @@ Script suivant :
 
     (script (space color cyan)(robi color blue)(space sleep 1000) (robi translate 10 0)(space sleep 100)(robi translate 0 10)(space sleep 100)(robi translate -10 0)(space sleep 100)(robi translate 0 -10) )
 
-Résultat : 
-
+Résultat :  
+   ![GIF du cube](https://alanjacob.fr/ex3.gif)    
 
 
 
