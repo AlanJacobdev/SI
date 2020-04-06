@@ -20,7 +20,6 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
   * [4.3 Ajouter des éléments a des conteneurs](#Ex43)
   * [4.4 Création et exécution de scripts](#Ex44)
   
-* [Exercice 5 :Eléments de base de notre langage à objet](#Ex5)
 
 ----------------
 
