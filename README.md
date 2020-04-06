@@ -41,11 +41,20 @@ Début de l'interprétation de script (dites S-expression)
 
    ### 2.1 Script de configuration <a id="Ex2"></a>
    
+   **Aucuns problèmes rencontrés**
+   
    Ce script permet de modifier la couleur du conteneur principal nommé space et celle de robi.
    
-     (script (space color black)(robi color yellow) )
+     (script (space color black)(robi color yellow))
+     
+   Donnant ce résultat.
+   
+   ![GIF du cuve](https://alanjacob.fr/ex2.png)     
 
    ### 2.2 Script d’animation <a id="Ex2"></a>
+   
+   
+   
 ----------------
 
 ## Exercice 3 : Introduction des commandes<a id="Ex3"></a>
