@@ -6,7 +6,7 @@ Le but de ce projet étant le développement d’un langage spécifique pour des
 
 Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineurs:
 
-*  [Exercice 1 : Prise en main de la couche graphique](#Ex1)
+*  [Exercice 1 : Prise en main de la couche graphique](#Exercice-1-:-Prise-en-main-de-la-couche-graphique)
 
 *  [Exercice 2 : Première version d’un interpréteur de script](#Ex2)
 	* [2.1 Script de configuration](#Ex21)
