@@ -12,7 +12,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 	* [2.1 Script de configuration](#21-script-de-configuration-)
   	* [2.2 Script d’animation](#22-script-danimation-)
   
-* [Exercice 3 : Introduction des commandes](#Ex3)
+* [Exercice 3 : Introduction des commandes](#exercice-3--introduction-des-commandes)
 
 * [Exercice 4 : Sélection et exécution des commandes](#Ex4)
   	* [4.1 Référencement des objets et enregistrement des commandes](#Ex41)
