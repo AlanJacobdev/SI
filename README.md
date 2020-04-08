@@ -10,7 +10,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 *  [Exercice 2 : Première version d’un interpréteur de script](#exercice-2--première-version-dun-interpréteur-de-script)
 	* [2.1 Script de configuration](#21-script-de-configuration-)
-  	* [2.2 Script d’animation](#Ex22)
+  	* [2.2 Script d’animation](#22-script-danimation-)
   
 * [Exercice 3 : Introduction des commandes](#Ex3)
 
