@@ -16,7 +16,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 * [Exercice 4 : Sélection et exécution des commandes](#exercice-4--sélection-et-exécution-des-commandes)
   	* [4.1 Référencement des objets et enregistrement des commandes](#41-référencement-des-objets-et-enregistrement-des-commandes-)
-  	* [4.2 Ajout et suppression dynamique d’éléments graphiques(#42-ajout-et-suppression-dynamique-déléments-graphiques-)
+  	* [4.2 Ajout et suppression dynamique d’éléments graphiques](#42-ajout-et-suppression-dynamique-déléments-graphiques-)
   	* [4.3 Ajouter des éléments a des conteneurs](#43-ajouter-des-éléments-à-des-conteneurs-)
   	* [4.4 Création et exécution de scripts](#Ex44)
   
