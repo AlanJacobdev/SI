@@ -8,7 +8,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 
 *  [Exercice 1 : Prise en main de la couche graphique](##exercice-1--prise-en-main-de-la-couche-graphique)
 
-*  [Exercice 2 : Première version d’un interpréteur de script](#Ex2)
+*  [Exercice 2 : Première version d’un interpréteur de script](#exercice-2--première-version-dun-interpréteur-de-script)
 	* [2.1 Script de configuration](#Ex21)
   	* [2.2 Script d’animation](#Ex22)
   
