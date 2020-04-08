@@ -100,7 +100,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    Ajout des classes Environment et Réference
    
-   La commande run() de la classe Rférence gérant les commandes à effectuer.
+   La commande run() de la classe Référence gérant les commandes à effectuer.
    
    ```java
    public Expr run(ExprList expr) {
