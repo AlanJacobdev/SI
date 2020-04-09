@@ -21,11 +21,12 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
   	* [4.2 Ajout et suppression dynamique d’éléments graphiques](#42-ajout-et-suppression-dynamique-déléments-graphiques-)
   	* [4.3 Ajouter des éléments a des conteneurs](#43-ajouter-des-éléments-à-des-conteneurs-)
   	* [4.4 Création et exécution de scripts](#44-création-et-exécution-de-scripts-)
-  
+
+* [Bilan](#Bilan)
 
 ----------------
 
-## Exercice 1 : Prise en main de la couche graphique<a id="Ex1"></a>
+## Exercice 1 : Prise en main de la couche graphique
 
 **Aucuns problèmes rencontrés**
 
@@ -37,11 +38,11 @@ Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant
 
 ----------------
 
-## Exercice 2 : Première version d’un interpréteur de script<a id="Ex2"></a>
+## Exercice 2 : Première version d’un interpréteur de script
 
 Début de l'interprétation de script (dites S-expression)
 
-   ### 2.1 Script de configuration <a id="Ex21"></a>
+   ### 2.1 Script de configuration 
    
    **Aucuns problèmes rencontrés**
    
@@ -53,7 +54,7 @@ Début de l'interprétation de script (dites S-expression)
    
    ![IMG rendu fond noir | cube yellow](https://alanjacob.fr/ex2.png)     
 
-   ### 2.2 Script d’animation <a id="Ex22"></a>
+   ### 2.2 Script d’animation 
    
    **Aucuns problèmes rencontrés**
     
@@ -70,7 +71,7 @@ Début de l'interprétation de script (dites S-expression)
    
 ----------------
 
-## Exercice 3 : Introduction des commandes<a id="Ex3"></a>
+## Exercice 3 : Introduction des commandes
 
 **Aucuns problèmes rencontrés**
 
@@ -92,11 +93,11 @@ Résultat :
 
 ----------------
 
-## Exercice 4 : Sélection et exécution des commandes<a id="Ex4"></a>
+## Exercice 4 : Sélection et exécution des commandes
 
 Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur.
 
-   ### 4.1 Référencement des objets et enregistrement des commandes <a id="Ex41"></a>
+   ### 4.1 Référencement des objets et enregistrement des commandes 
    
    **Aucuns problèmes rencontrés**
    
@@ -115,7 +116,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    Les classes n'étant toujours pas universelles et fixées à un objet.
       
    
-   ### 4.2 Ajout et suppression dynamique d’éléments graphiques <a id="Ex42"></a>
+   ### 4.2 Ajout et suppression dynamique d’éléments graphiques 
    
    **Problème de compréhension du NewImage et Add**
    
@@ -129,15 +130,15 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    
    
-   ### 4.3 Ajouter des éléments à des conteneurs <a id="Ex43"></a>
+   ### 4.3 Ajouter des éléments à des conteneurs 
    
    
    
    
 
 
-   ### 4.4 Création et exécution de scripts <a id="Ex44"></a>
+   ### 4.4 Création et exécution de scripts 
 
 
 
-
+## Bilan
