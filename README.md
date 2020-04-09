@@ -136,8 +136,10 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
     
    **Problème des environnements afin de supprimer des élements sans récursivité**
    
-   Adaptation des méthode AddElement et DelElement.
+   Adaptation des méthode AddElement et DelElement:
    
+   * Ajout possible uniquement dans un GRect ou GSpace
+   * Suppresion dans un GContainer
    
    Adaptation de l'interpreter : 
    
