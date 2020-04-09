@@ -203,7 +203,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
 	}
    ```
 	
-   Ajout de la méthode clearElementAndReference lié à la classe clear()
+   Ajout de la méthode clearElementAndReference dans la class Environment lié à la classe clear()
    
    ```java
    public void clearElementAndReference(GContainer container) {
@@ -229,3 +229,13 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
 	
 	
 ## Bilan
+
+Ce projet a permis de mettre en avant la compréhension, afin de connaître le but d'une bibliothèque inconnue auparavant.
+
+Ainsi, le but de ce projet était de créer un nouveau langage basé sur l'objet, j'ai donc utilisé l'avantage de l'objet, étant l'utilisation de méthodes, classes etc. Permettant de rendre le code plus clair et compréhensible pour un utilisateur.
+
+L'utilisation de plusieurs environnements et non d'un seul environnement global à été choisi afin de rendre l'applicatif plus flexible, et allégeant le code, laissant les avantages de Java gérer lors de suppresions. Ce choix semble le plus optimal et il s'adapte à un grand nombre de situations. De tel sorte que très peu d'erreurs ont été rencontrées lors de son usage.
+
+Ainsi, cette solution semble la plus optimale.
+
+
