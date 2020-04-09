@@ -1,4 +1,6 @@
-# Projet de synthèse en Si
+# Projet de synthèse en Si 
+
+#### Auteur : Alan JACOB
 
 Le but de ce projet étant le développement d’un langage spécifique pour des animations graphiques simples 
 
