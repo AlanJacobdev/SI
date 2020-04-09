@@ -33,7 +33,7 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 Mise en place d'un cube circulant sur les bords de la fenêtre tout en changeant de couleur (*adaptation responsive*).
 
 
-![GIF du cube](https://alanjacob.fr/cube.gif)
+![GIF du cube](/cube.gif)
 
 
 ----------------
