@@ -141,7 +141,8 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    * Ajout possible uniquement dans un GRect ou GSpace
    * Suppresion dans un GContainer
    
-   Adaptation de l'interpreter : 
+   Adaptation de l'interpreter permettant de gérer le dernier environnement de la référence 
+	Par exemple, space.robi.momo, on ira chercher l'environnement de momo 
    
    ```java
    class Interpreter {
