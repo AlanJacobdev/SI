@@ -203,6 +203,28 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
 	}
    ```
 	
+   Ajout de la méthode clearElementAndReference lié à la classe clear()
+   
+   ```java
+   public void clearElementAndReference(GContainer container) {
+
+		for (Iterator<Entry<String, Reference>> it = variables.entrySet().iterator(); it.hasNext();) {
+			Entry<String, Reference> entry = it.next();
+
+			Object receiver = entry.getValue().getReceiver();
+
+			if (receiver != null && receiver instanceof GElement) {
+				System.out.println("La référence " + entry.getKey() + " à été supprimée");
+				GElement element = (GElement) receiver;
+				container.removeElement(element);
+				it.remove();
+			}
+
+		}
+
+		container.repaint();
+	}
+   ```
 	
 	
 	
