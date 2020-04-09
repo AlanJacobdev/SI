@@ -143,7 +143,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    Adaptation de l'interpreter permettant de gérer le dernier environnement de la référence 
    
-	Par exemple, space.robi.momo, on ira chercher l'environnement de momo 
+   Par exemple, space.robi.momo, on ira chercher l'environnement de momo 
    
    ```java
    class Interpreter {
