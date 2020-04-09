@@ -134,7 +134,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    **Problème de compréhension du à l'ajout dans un GOval qui se verra inutile**
     
-   **Problème des environnements afin de supprimer des élements sans récursivité**
+   **Problème des environnements afin de supprimer des élements sans récursivité (résolu)**
    
    Adaptation des méthode AddElement et DelElement:
    
@@ -182,7 +182,28 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
 
 
    ### 4.4 Création et exécution de scripts 
+   **Problèmes rencontrés au niveau de la Classe RunScript()**
+   
+   **Obliger de gèrer les environnement (père et enfant) d'une référence et son propre nom**
+ 
+   Ajout des méthodes dans la classe référence afin de gérer les environnements afin que modification de la méthode run()
+   
+   ```java
+   public Expr run(ExprList e) {
+		String selector = e.get(1).getValue();
+		Command c = this.getCommandByName(selector);
+		if (c == null) {
+			c = (Command) this.getScriptByName(selector);
 
-
-
+			if (c == null) {
+				return null;
+			}
+		}
+		return c.run(this, e);
+	}
+   ```
+	
+	
+	
+	
 ## Bilan
