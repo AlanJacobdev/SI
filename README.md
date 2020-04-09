@@ -11,16 +11,16 @@ Le projet est découpé en **5 exercices** majeurs déclinés en plusieurs mineu
 *  [Exercice 1 : Prise en main de la couche graphique](##exercice-1--prise-en-main-de-la-couche-graphique)
 
 *  [Exercice 2 : Première version d’un interpréteur de script](#exercice-2--première-version-dun-interpréteur-de-script)
-	* [2.1 Script de configuration](#21-script-de-configuration-)
-  	* [2.2 Script d’animation](#22-script-danimation-)
+	* [2.1 Script de configuration](#21-script-de-configuration)
+  	* [2.2 Script d’animation](#22-script-danimation)
   
 * [Exercice 3 : Introduction des commandes](#exercice-3--introduction-des-commandes)
 
 * [Exercice 4 : Sélection et exécution des commandes](#exercice-4--sélection-et-exécution-des-commandes)
-  	* [4.1 Référencement des objets et enregistrement des commandes](#41-référencement-des-objets-et-enregistrement-des-commandes-)
-  	* [4.2 Ajout et suppression dynamique d’éléments graphiques](#42-ajout-et-suppression-dynamique-déléments-graphiques-)
-  	* [4.3 Ajouter des éléments a des conteneurs](#43-ajouter-des-éléments-à-des-conteneurs-)
-  	* [4.4 Création et exécution de scripts](#44-création-et-exécution-de-scripts-)
+  	* [4.1 Référencement des objets et enregistrement des commandes](#41-référencement-des-objets-et-enregistrement-des-commandes)
+  	* [4.2 Ajout et suppression dynamique d’éléments graphiques](#42-ajout-et-suppression-dynamique-déléments-graphiques)
+  	* [4.3 Ajouter des éléments a des conteneurs](#43-ajouter-des-éléments-à-des-conteneurs)
+  	* [4.4 Création et exécution de scripts](#44-création-et-exécution-de-scripts)
 
 * [Bilan](#Bilan)
 
