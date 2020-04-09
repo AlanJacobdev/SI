@@ -132,8 +132,48 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
    
    ### 4.3 Ajouter des éléments à des conteneurs 
    
+   **Problème de compréhension du à l'ajout dans un GOval qui se verra inutile**
+    
+   **Problème des environnements afin de supprimer des élements sans récursivité**
+   
+   Adaptation des méthode AddElement et DelElement.
    
    
+   Adaptation de l'interpreter : 
+   
+   ```java
+   class Interpreter {
+
+	public Expr compute(Environment env, ExprList expr) {
+		if (expr.size() < 2)
+			return null;
+
+		String[] path = expr.get(0).getValue().split("\\.");
+		Reference receiver = env.getReferenceByName(expr.get(0).getValue());
+
+		
+		// Récupération du dernier environnement
+		
+		for (int i = 0; i < path.length; i++) {
+			receiver = env.getReferenceByName(path[i]);
+
+			if (receiver.environment != null) {
+				env = receiver.environment;
+			} else if (i > path.length - 1) {
+				return null;
+			}
+
+		}
+
+		if (receiver == null) {
+			return null;
+		}
+
+		return receiver.run(expr);
+	}
+}
+   
+   ```
    
 
 
