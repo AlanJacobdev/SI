@@ -52,7 +52,7 @@ Début de l'interprétation de script (dites S-expression)
      
    Donnant ce résultat.
    
-   ![IMG rendu fond noir | cube yellow](https://alanjacob.fr/ex2.png)     
+   ![IMG rendu fond noir | cube yellow](/ex2.png)     
 
    ### 2.2 Script d’animation 
    
@@ -67,7 +67,7 @@ Début de l'interprétation de script (dites S-expression)
    
    Résultat : 
    
-   ![GIF du cube](https://alanjacob.fr/ex22.gif)     
+   ![GIF du cube](/ex22.gif)     
    
 ----------------
 
@@ -87,7 +87,7 @@ Script suivant :
 
 Résultat :  
 
-   ![GIF du cube](https://alanjacob.fr/ex3.gif)    
+   ![GIF du cube](/ex3.gif)    
 
 
 
