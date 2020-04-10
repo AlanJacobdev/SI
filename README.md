@@ -226,7 +226,7 @@ Intégration d'un interpreteur afin de créer une interaction avec l'utilisateur
 	}
    ```
 	
-	
+   Implémentation de la clase GGif permettant d'afficher des GIF de manière fluide.
 	
 ## Bilan
 
